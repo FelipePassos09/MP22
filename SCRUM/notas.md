@@ -1,9 +1,9 @@
-<h1>Curso SCRUM</h1>
+<h1>Metodologia SCRUM</h1>
 <h2>Etapas do SCRUM</h2>
 <h3>Visão do Projeto</h3>
 <p>Declaração de visão do projeto.<br/>Objetivos, características básicas, pessoas interessadas.</p>
 <h3>Product Backlog</h3>
-<p>Lista com todos os detalhes do produto a ser abordado no projeto.<br /><br /><a style="font-size:15px; padding:30px">Todos os projetos abordados pelo SCRUM são tratados como produto, mesmo que eseja serviço, processo ou qualquer outro tipo de item.</a><br /><br />É composto pelo conjunto de user histories a serem considerados no desenvolvimento do projeto.</p>
+<p>Lista com todos os detalhes do produto a ser abordado no projeto.<br /><br /><a style="font-size:15px; padding:30px; color: purple">Todos os projetos abordados pelo SCRUM são tratados como produto, mesmo que eseja serviço, processo ou qualquer outro tipo de item.</a><br /><br />É composto pelo conjunto de user histories a serem considerados no desenvolvimento do projeto.</p>
 <h3>Sprint</h3>
 <p>São as rodadas de desenvolvimento do projeto, cada sprint precisa ter entre 2 a 4 semanas e é iniciada e encerrada com um rito de sprint review com a abordagem de todos os item listados no Sprint Backlog junto à equipe de trabalho.</p>
 <h3>Sprint Backlog</h3>
@@ -82,3 +82,93 @@ Como pode ser visto, esses tr~es pilares promovem uma integridade da equipe, ond
 <p>Dentro do SCRUM há um apelo muito grande com o tempo, sendo ele o maior delimitador dentro de todos os princípios. O Time-Boxing consiste nesse controle de tempo, de maneira a mitigar atrasos ou perdas no foco que a equipe possui, quanto menor tempo maior o foco empregado em solucionar as tarefas em questão, claro, observando-se o quanto os prazos são compatíveis com o tempo proposto. Dessa maneira não há margem para perdas ou procrastinações e trazendo maior objetividade nas resolução das atividades propostas. Dito isso é sempre importante se observar a objetividade em reuniões, execuções e demais para que os prazos não sejam excedidos nem que haja impacto nas atividades dos colegas caso algo dependa de você e, uma vez que o produto final é composto do conjunto de atividades desempenhadas, todos devem trabalhar para evitar taius atrasos e observar sempre os prazos estabelecidos.</p>
 <h2>Princípio #6 → Iterativo Incremental</h2>
 <p>Por fim, o último princípio do SCRUM, e sua maior caracteristica, é a iteratividade, ou seja, as entregas parciais que, somadas, levam ao produto final. No SCRum cada entrega gera uma parte do todo, sendo assim um elemento tangível do produto, podendo ser adaptado gradualmente mas sendo, primariamente, um componente ou funcionalidade. Nesse caso temos uma abordagem progressiva de construção, como uma pilha, onde cada parte leva a uma nova que, gradativamente se aproxima do resultado. Em metodologias tradicionais isso ocorre de maneira contrária, com a entrega única de um produto completo, o que pode gerar muitas correções ou mesmo insatisfação com o produto, algo evitado no SCRUM com este modelo de evolução.</p>
+<h1>Grantindo o Sucesso do Projeto</h1>
+<h2>Projeto Escola Esperança</h2>
+<a href="http://stepscc.atlassian.net/jira/software/projects/SEE/boards/5" style="font-size:35px; font-weight: bold; color: purple">Sistema da Escola Esperança</a>
+<h2>Definindo um Objetivo</h2>
+<p>Para a criação de um projeto o primeiro passo é a <a href="./ProjXXX+-+Declaração+de+Visão.pdf"style="font-size:20px; font-weight: bold; color: purple">Declaração de Visão do Projeto</a> que consiste en ==m um documento contendo dievrsas características e dados preliminares acerca do produto em questão. Ela é composta de diversos elementos conforme a lista abaixo:
+<h3>Título do Projeto</h3>
+<p>Se refere ao título dado ao projeto.</p>
+<h3>Objetivo</h3>
+<p>É o escopo principal do projeto, ele precisa ser conciso e direto em suas proposições, trazendo as características principais assim como prazos e valores a serem atendidos. <br />É uma boa estratégia utilizar a metodologia S.M.A.R.T. para elaboração de objetivos.</p>
+<h3>Justificativa</h3>
+<p>É o embasamento ao qual o projeto se atrela, na justificativa são incluídos os detalhes históricos que trouxeram a necessidade do produto, as expectativas sobre os resultados e o que tal produto irá proporcionar ao cliente.</p>
+<h3>Descrição Geral</h3>
+<p>É a descrição do que o produto visa atender, quais as características principais que precisa possuir e quais os objetivos práticos. Todo produto tem por objetivo principal solucionar um problema do cliente e, nesse caso, apresentamos na descrição como o mesmo irá solucionar o problema proposto.</p>
+<h3>Equipe</h3>
+<p>Consiste em um quadro que elenca os integrantes da equipe que atuará na execução do projeto, definindo nomes e posições de cada um dos participantes de modo a ter documentado quem fará cada papel na equipe.</p>
+<h3>Partes Interessadas</h3>
+<p>É o mapeamento de todas as partes envolvidas como patrocinadores, clientes (no caso do cliente, se possível, atribuir um nome ao focal-point), empresa desenvolvedora, equipe do projeto e partes afetadas como usuários, departamentos e/ou clientes finais. No mapeamento é importante inserir uma breev descrição de cada parte, com envolvimento, interesse e/ou relação com o projeto e seus resultados.</p>
+<h3>Premissas</h3>
+<p>São itens assumidos como verdade para o desenvolvimento do projeto, porém que não dependem da equipe de projeto ou que não estão sob o controle da equipe. Também podem ser tido como premissas itens que são esperados para a efetividade do produto como infraestrutura básica, capacitação e/ou usabilidade.</p>
+<h3>Restrições</h3>
+<p>São itens apontados como delimitadores do projeto, ou seja, que estabelecem condições gerais acerca dele como prazo de entrega, disponibilidade, escalabilidade, etc..</p>
+<h3>Escopo Excuído</h3>
+<p>São itens inerentes ao projeto, porém que foram excluídas ou incertas acerca do prjeto, ou seja, que podem ser esperadas do produto mas que não serão abordadas no processo de desenvolvimento. Também podem fazer parte requisitos gerais descartados durante a fase de delimitação como features abandonadas ou que ocasionarão perdas em virtude das restrições.</p>
+<h3>Riscos Preliminares</h3>
+<p>São os riscos que ainda não podem ser estabelecidos, ou seja, que estão em um limiar de incerteza. Geralmente são dependentes ou relacionados às premissas ou itens de risco gerais. Por padrão são gravados com causa, descrição do risco e suas consequências.</p>
+Durante o desenrolar inicial a Declaração poderá ser (e é indicado que seja) alterada constantemente, adicionando mais detalhes ao documento e criando uma base sólida e completa para os envolvidos poderem se informar. Mesmo durante as entregas, a declaração é importante para se observar a aderência de cada incremento com aquilo que foi proposto pelo projeto.<br /><br /><a style="font-size:15px; padding:30px; color: purple; font-weight:bold;">O responsável pela Declaração de Visão do Projeto é o Product Owner, cabendo a ele coletar e elaborar essa documentação, assim como seu gerenciamento e propagação com o restante da equipe.</a>
+</p>
+<h2>Garantindo o Sucesso do Projeto</h2>
+<h3>Definindo a Equipe</h3>
+<p>Para definir a equipe do projeto é imprescindível termos uma equipe que esteja alinhada com os princípios ágeis, ou seja, uma equipe que seja aderente ou interessada em estar alinhada com a metologia SCRUM. Inicialmente indicamos o Proct Owner e o Scrum Master para que ambos possam selecionar e definir os integrantes da equipe. Como dito anteriormente, a equipe Scrum é auto-organizada e, para tanto, precisa de um ambiente que promova essa possibilidade assim como integrantes compormetidos e autônomos, que se identifiquem com esse perfil de trabalho.<br />É importante, também, que a equipe esteja em sintonia com os objetivos e finalidades do projeto, se identificando com o produto que está sendo objeto do projeto. Dessa maneira haverá maior interesse em participar de maneira ativa e interessada dos desenvolvimentos.</p>
+<h3>Scrum Master</h3>
+<p>Levando em consideração as principais funções do Scrum Master que sçao facilitar o desenvolvimento, blindar e garantir a produtividade da equipe e remover os impedimentos que o projeto possa possuir, cabe a ele um papel de exemplo e de relativa liderança da equipe. O Scrum Master precisa, além disso, ser dedicado e focado com o objetivo do projeto, estando sempre disponível para as necessidades da equipe e sendo, sobretudo, um exemplo para o restante da equipe.<br />Diz-se que o Scrum Master lidera pelo exemplo, nesse caso sendo o modelo ao qual o rstante da equipe busca como referência no seu dia a dia.<br /><br />
+<ul style="font-size:px; color: purple; font-weight:regular;">
+<li>São atribuições do Scrum Master:</li>
+    <ul>
+        <li>Remover impedimentos.</li>
+        <li>Garantir que a equipe está funcional e produtiva.</li>
+        <li>Responsável pela aplicação de valores e práticas dos SCUM.</li>
+        <li>Blindar o time de interferências externas.</li>
+    </ul>
+<li>São características do Scrum Master:</li>
+    <ul>
+        <li>Ter alta capacidade para resolver problemas.</li>
+        <li>Ser compormetido com o projeto.</li>
+        <li>Ser focado com a entrega.</li>
+        <li>Ter perfil de liderança.</li>
+        <li>Ser disponível e proativo.</li>
+        <li>Ser capaz de oferecer e receber feedbacks construtivos.</li>
+    </ul>
+</ul>
+</p>
+<h3>O Scrum Master e o Gerente de Projetos (GP)</h3>
+<p>
+Existe muita dúvida em relação às atividades dos profissionais que atuam como Scrum Master e Gerente de Projetos (GP). O papel do Gerente de Projetos é próximo ao do Scrum Master, mas existem pequenas diferenças.  A mais básica é: enquanto o Scrum Master é visto como um ponto de apoio da equipe Ágil, o Gerente de Projetos possui um papel de centralizador do comando e das decisões do projeto.
+
+Embora o Scrum Master também não seja, necessariamente, um gerente de projetos, eles compartilham muitas das funções — especialmente se o gerente de projetos for do tipo mais facilitador, sem grande autonomia. Vamos detalhar um pouco mais a seguir.
+
+<h3>Gerente de Projetos (GP)</h3>
+
+O GP é capacitado para liderar e, ainda, trabalhar para garantir que todos os processos serão implementados corretamente. Veja alguns exemplos das atribuições de um Gerente de Projetos segundo o PMI (Project Management Institute):
+<ul>
+<li>Definir escopo;</li>
+<li>Criar a lista de atividades e subatividades;</li>
+<li>Estabelecer os indicadores de acompanhamento do projeto;</li>
+<li>Estabelecer planos para o projeto;</li>
+<li>Identificar riscos;</li>
+<li>Estabelecer cronograma;</li>
+<li>Calcular os custos humanos e materiais;</li>
+<li>Avaliar e orçar o impacto dos riscos no projeto;</li>
+<li>Estabelecer os marcos do projeto;</li>
+<li>Compor o plano de faturamento ao cliente ou ao patrocinador;</li>
+Administrar o orçamento;</li>
+<li>Criar e manter um plano de comunicação;</li>
+<li>Obter os aceites e interagir com o departamento financeiro da empresa para gerar as faturas;</li>
+<li>Acompanhar a liberação dos pagamentos junto ao cliente.</li>
+</ul>
+Se você leu as atribuições acima e não entendeu o significado deles é porque talvez não esteja familiarizado com os processos de gerenciamento de projetos na metodologia  tradicional (ainda a mais utilizada no mundo). Este desconhecimento por parte dos executivos é muito maior do que se imagina.
+Quando se trata de Agile, a figura do gerente de projetos também é importante. Ele atua em responsabilidades de nível superior, mais abrangente do que o escopo funcional do projeto e que que estão acima da alçada do Dono do Produto ou Scrum Master, os quais possuem papéis bem definidos e mais relacionados ao desenvolvimento do produto em si.
+<br />
+Embora os melhores resultados possíveis partam da organização da equipe e da gestão em si, isso pode ser percebido como uma ameaça para alguns profissionais de gerenciamento de projetos, porque sugere uma diminuição do seu papel. Mas isso não é verdade! Conheça apenas algumas poucas (dentre muitas) razões que comprovam a importância do gerente de projetos:
+<br /><br />
+<ul>
+<li>É quem se comunica com a gestão da empresa e líderes no lado do cliente para dar feedback sobre o progresso do projeto e gerenciar conflitos;</li>
+<li>É quem elabora os relatórios gerais de status dos projetos, envolvendo relatórios de custos, riscos qualidade e etc., tratando de todos estes assuntos com entidades externas à equipe Scrum, tal como os gestores da empresa, por exemplo;</li>
+<li>O GP pode ser o responsável pela elaboração do Documento de Visão dos projetos Scrum, selecionando os participantes do projeto e garantido que este terá um início eficiente.</li>
+<li>O GP pode atuar ainda como líder/orientador de Donos de Produtos e Scrum Masters de projetos diversos, dando suporte e passando experiência pra que estes exerçam seus papéis eficientemente.</li>
+</ul>
+As razões acima não são oficiais e não estão presentes no Scrum Guide, até porque este guia não trata deste assunto. Assim, as responsabilidades exatas do Gerente de Projetos ficam sob o critério de cada organização, porém, como falado acima, estão sempre em nível superior às responsabilidades do Dono do Produto e do Scrum Master, nunca sobrepondo-as e interferindo no trabalho diário de desenvolvimento do produto de um projeto Scrum.
+É importante salientar que a passagem do projeto tradicional para métodos ágeis não deve tornar o papel do gerente inútil. Pelo contrário, sua função na equipe torna-se mais especializada para determinadas tarefas de gerenciamento de negócios. As tarefas que podem ser supervisionados pelo gerente de projetos em equipes agile podem incluir: finanças do projeto; relatórios de status; governança do projeto; identificação de papéis em falta e/ou recursos; comunicação das partes interessadas de negócios; comunicação e gestão de riscos; planejamento do projeto; gestão da mudança; etc.
+</p>
