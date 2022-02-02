@@ -84,7 +84,7 @@ Como pode ser visto, esses tr~es pilares promovem uma integridade da equipe, ond
 <p>Por fim, o último princípio do SCRUM, e sua maior caracteristica, é a iteratividade, ou seja, as entregas parciais que, somadas, levam ao produto final. No SCRum cada entrega gera uma parte do todo, sendo assim um elemento tangível do produto, podendo ser adaptado gradualmente mas sendo, primariamente, um componente ou funcionalidade. Nesse caso temos uma abordagem progressiva de construção, como uma pilha, onde cada parte leva a uma nova que, gradativamente se aproxima do resultado. Em metodologias tradicionais isso ocorre de maneira contrária, com a entrega única de um produto completo, o que pode gerar muitas correções ou mesmo insatisfação com o produto, algo evitado no SCRUM com este modelo de evolução.</p>
 <h1>Grantindo o Sucesso do Projeto</h1>
 <h2>Projeto Escola Esperança</h2>
-<a href="http://stepscc.atlassian.net/jira/software/projects/SEE/boards/5" style="font-size:35px; font-weight: bold; color: purple">Sistema da Escola Esperança</a>
+<a href="http://stepscc.atlassian.net/jira/software/projects/SEE/boards/5" style="font-size:35px; font-weight: bold; color: purple; text-decoration: none;">Sistema da Escola Esperança</a>
 <h2>Definindo um Objetivo</h2>
 <p>Para a criação de um projeto o primeiro passo é a <a href="./ProjXXX+-+Declaração+de+Visão.pdf"style="font-size:20px; font-weight: bold; color: purple">Declaração de Visão do Projeto</a> que consiste en ==m um documento contendo dievrsas características e dados preliminares acerca do produto em questão. Ela é composta de diversos elementos conforme a lista abaixo:
 <h3>Título do Projeto</h3>
@@ -115,22 +115,24 @@ Durante o desenrolar inicial a Declaração poderá ser (e é indicado que seja)
 <h3>Scrum Master</h3>
 <p>Levando em consideração as principais funções do Scrum Master que sçao facilitar o desenvolvimento, blindar e garantir a produtividade da equipe e remover os impedimentos que o projeto possa possuir, cabe a ele um papel de exemplo e de relativa liderança da equipe. O Scrum Master precisa, além disso, ser dedicado e focado com o objetivo do projeto, estando sempre disponível para as necessidades da equipe e sendo, sobretudo, um exemplo para o restante da equipe.<br />Diz-se que o Scrum Master lidera pelo exemplo, nesse caso sendo o modelo ao qual o rstante da equipe busca como referência no seu dia a dia.<br /><br />
 <ul style="font-size:px; color: purple; font-weight:regular;">
-<li>São atribuições do Scrum Master:</li>
-    <ul>
-        <li>Remover impedimentos.</li>
-        <li>Garantir que a equipe está funcional e produtiva.</li>
-        <li>Responsável pela aplicação de valores e práticas dos SCUM.</li>
-        <li>Blindar o time de interferências externas.</li>
-    </ul>
-<li>São características do Scrum Master:</li>
-    <ul>
-        <li>Ter alta capacidade para resolver problemas.</li>
-        <li>Ser compormetido com o projeto.</li>
-        <li>Ser focado com a entrega.</li>
-        <li>Ter perfil de liderança.</li>
-        <li>Ser disponível e proativo.</li>
-        <li>Ser capaz de oferecer e receber feedbacks construtivos.</li>
-    </ul>
+    <li>São atribuições do Scrum Master:
+        <ul>
+            <li>Remover impedimentos.</li>
+            <li>Garantir que a equipe está funcional e produtiva.</li>
+            <li>Responsável pela aplicação de valores e práticas dos SCUM.</li>
+            <li>Blindar o time de interferências externas.</li>
+        </ul>
+    </li>
+    <li>São características do Scrum Master:
+        <ul>
+            <li>Ter alta capacidade para resolver problemas.</li>
+            <li>Ser compormetido com o projeto.</li>
+            <li>Ser focado com a entrega.</li>
+            <li>Ter perfil de liderança.</li>
+            <li>Ser disponível e proativo.</li>
+            <li>Ser capaz de oferecer e receber feedbacks construtivos.</li>
+        </ul>
+    </li>
 </ul>
 </p>
 <h3>O Scrum Master e o Gerente de Projetos (GP)</h3>
@@ -143,20 +145,20 @@ Embora o Scrum Master também não seja, necessariamente, um gerente de projetos
 
 O GP é capacitado para liderar e, ainda, trabalhar para garantir que todos os processos serão implementados corretamente. Veja alguns exemplos das atribuições de um Gerente de Projetos segundo o PMI (Project Management Institute):
 <ul>
-<li>Definir escopo;</li>
-<li>Criar a lista de atividades e subatividades;</li>
-<li>Estabelecer os indicadores de acompanhamento do projeto;</li>
-<li>Estabelecer planos para o projeto;</li>
-<li>Identificar riscos;</li>
-<li>Estabelecer cronograma;</li>
-<li>Calcular os custos humanos e materiais;</li>
-<li>Avaliar e orçar o impacto dos riscos no projeto;</li>
-<li>Estabelecer os marcos do projeto;</li>
-<li>Compor o plano de faturamento ao cliente ou ao patrocinador;</li>
-Administrar o orçamento;</li>
-<li>Criar e manter um plano de comunicação;</li>
-<li>Obter os aceites e interagir com o departamento financeiro da empresa para gerar as faturas;</li>
-<li>Acompanhar a liberação dos pagamentos junto ao cliente.</li>
+    <li>Definir escopo;</li>
+    <li>Criar a lista de atividades e subatividades;</li>
+    <li>Estabelecer os indicadores de acompanhamento do projeto;</li>
+    <li>Estabelecer planos para o projeto;</li>
+    <li>Identificar riscos;</li>
+    <li>Estabelecer cronograma;</li>
+    <li>Calcular os custos humanos e materiais;</li>
+    <li>Avaliar e orçar o impacto dos riscos no projeto;</li>
+    <li>Estabelecer os marcos do projeto;</li>
+    <li>Compor o plano de faturamento ao cliente ou ao patrocinador;</li>
+    Administrar o orçamento;</li>
+    <li>Criar e manter um plano de comunicação;</li>
+    <li>Obter os aceites e interagir com o departamento financeiro da empresa para gerar as faturas;</li>
+    <li>Acompanhar a liberação dos pagamentos junto ao cliente.</li>
 </ul>
 Se você leu as atribuições acima e não entendeu o significado deles é porque talvez não esteja familiarizado com os processos de gerenciamento de projetos na metodologia  tradicional (ainda a mais utilizada no mundo). Este desconhecimento por parte dos executivos é muito maior do que se imagina.
 Quando se trata de Agile, a figura do gerente de projetos também é importante. Ele atua em responsabilidades de nível superior, mais abrangente do que o escopo funcional do projeto e que que estão acima da alçada do Dono do Produto ou Scrum Master, os quais possuem papéis bem definidos e mais relacionados ao desenvolvimento do produto em si.
@@ -172,3 +174,143 @@ Embora os melhores resultados possíveis partam da organização da equipe e da 
 As razões acima não são oficiais e não estão presentes no Scrum Guide, até porque este guia não trata deste assunto. Assim, as responsabilidades exatas do Gerente de Projetos ficam sob o critério de cada organização, porém, como falado acima, estão sempre em nível superior às responsabilidades do Dono do Produto e do Scrum Master, nunca sobrepondo-as e interferindo no trabalho diário de desenvolvimento do produto de um projeto Scrum.
 É importante salientar que a passagem do projeto tradicional para métodos ágeis não deve tornar o papel do gerente inútil. Pelo contrário, sua função na equipe torna-se mais especializada para determinadas tarefas de gerenciamento de negócios. As tarefas que podem ser supervisionados pelo gerente de projetos em equipes agile podem incluir: finanças do projeto; relatórios de status; governança do projeto; identificação de papéis em falta e/ou recursos; comunicação das partes interessadas de negócios; comunicação e gestão de riscos; planejamento do projeto; gestão da mudança; etc.
 </p>
+<h3>Product Owner</h3>
+<p>Como dito anteriormente, o Product Owner é o porta-voz do cliente no projeto, a ele cabem a coleta dos requisitos, comunicação com o cliente e definição de prioridades. Visto isso deve ser uma pessoa com grande maturidade nessa atividade para que possa julgar da melhor maneira essas informações e estabelecer as melhores estratégias do projeto. Ele também precisa se comunicar com frequência com a equipe, sendo um ponto focal das dúvidas e questionamentos da equipe quanto aos requisitos específicados.<br />
+<ul style="font-size:px; color: purple; font-weight:regular;">
+    <li>São atribuições do producrt owner:
+        <ul>
+            <li>Coletar os requisitos com o cliente.</li>
+            <li>Representar o cliente durante o desenvolvimento.</li>
+            <li>Avaliar as entregas do time.</li>
+            <li>Estabelecer as prioridades dos requisitos.</li>
+            <li>Definir os critérios critérios de aceitação do produto.</li>
+        </ul>
+    </li>
+    <li>São características do Product Owner:
+        <ul>
+            <li>Maturidade em entender e definir requisitos.</li>
+            <li>Planejamento dos passos as serem adotados no desenvolvimento.</li>
+            <lI>Tomar decisões de forma espontânea e autônoma.</lI>
+            <li>Ser comunicativo e participativo no projeto.</li>
+            <li>Possuir um engajamento com o cliente para o decorrer do projeto.</li>
+        </ul>
+    </li>
+</ul>
+</p>
+<h3>Equipe Scrum</h3>
+<p>O principal item que define uma Equipe SCRUM são sua familiaridade e equivalência aos requisitos técnicos do projeto, sendo necessário avaliar o projeto em detalhes para definir a equipe a partir dos requisitos e know-how necessários para sua realização, porém não podemos deixar de lado as características básicas que a equipe deve possuir pois é de suma importâncias que seus membros também estejam em sintonia com essas características.
+<ul style="font-size:px; color: purple; font-weight: regular;">
+    <li>São atribuições da equipe Scrum:
+        <ul>
+            <li>Atuar diretamente no desenvolvimento e entrega das sprints.</li>
+            <li>Planejar executar as sprints.</li>
+            <li>Zelar pela qualidade e produtividade da equipe.</li>
+        </ul>
+    </li>
+    <li>São características do Time Scrum:
+        <ul>
+            <li>Serem proativos.</li>
+            <li>Colaborar entre si.</li>
+            <li>Serem disponíveis aos colegas.</li>
+            <li>Serem companheiros de equipe.</li>
+        </ul>
+    </li>
+</ul>
+</p>
+<h2>Backlog do Produto</h2>
+<p>O Product Backlog é um conjunto de User Histories. Em resumo é o cons=junto dos requisitos a serem tratados para o desenvolvimento do produto. Num Backlog teremos todos os itens a serem abordados no projeto e, a sua completude, representa a finalização do projeto. Como resumido, no Backlog temos dois itens principais:
+<h3>User Hystories (Histórias de Usuários)</h3>
+<p>No Scrum costumamos tratar como Histórias do Usuário os requisitos a serem desenvolvidos. Requisitos são problemas, funcionalidades e/ou características apresentadas pelo cliente como partes do projeto a ser desenvolvido. Portanto podemos resumir que o Backlog é a biblioteca de requistos a serem abordados no projeto.</p>
+<h3>Epics (Épicos)</h3>
+<p>São itens maiores, uma História de Usuário que, por sua complexidade, pode ser segmentada em outra várias. Geralmente temos épicos na visão do projeto ou em requisitos muito complexos onde, para que sejam atendidos, dievrsas funcionalidades precisam ser atendidas e/ou desenvolvidas para suportá-lo. Costumeiramente um Épico pode ser objeto de toda uma Sprint ou segmentado em várias sprints.</p>
+<p>Para definirmos uma boa User Hystorie podemos adotar uma metodologia simples:
+<br />
+"""Como [ator] eu [verbo de ação] de [ação] para [finalidade]."""
+<br />
+Desse modo temos:
+    <ul>
+        <li>[ator] → é o usuário do produto desenvolvido, pode ser um usuário, gerente, cliente, etc...</li>
+        <li>[verbo de ação] → pode ser quero, preciso, necessito, devo, gostaria, ou qualquer verbo equivalente, que exprima uma ação.</li>
+        <li>[ação] → é a atividade necessitada, como um cadastro, passagem, reserva, abrigo, etc...</li>
+        <li>[finalidade] → é o objetivo da ação, aquilo que ele precisa solucionar ou atender através da ação, como dormir, hospedar, cadastrar, registrar.</li>
+    </ul>
+<br />
+A partir disso podemos elencar as histórias de usuário como simples ou complexas (alto nível), as simples são contidas na estrutura acima e podem ser solucionadas com apenas um esforço, porém nas complexas podemos originar um Épico, nas complexas fica inerente em seu contexto que, para serem atendidas, várias outras tarefas precisam ser atendidas. Uma boa analise de requisitos permite um backlog limpo, objetivo e sem surpresas no desenvolvimento pois, com a correta definição de histórias de usuário e épicos temos uma boa base para direcionar as sprints e a evolução do projeto.
+</p>
+</p>
+<h2>Product Backlog: Coletdo Histórias</h2>
+<p>Como visto as histórias de usuário são essenciais para o correto desenrolar do projeto e que é responsabildiade do Product Owner coletar e gravar esses dados para o time. Porém é importante levar em conta como efetuar essa coleta pois, o Product Owner nem sempre receberá esses dados da maneira como precisam ser repassados para a equipe então, através de Reuniões de Grupos de usuários ele toma nota dessas necessidades para, então,traduzí-las de maneira sucinta e objetiva no Backlog. <br />As Reuniões consistem de encontros com os representantes e interessados a fim de discorrer a respeito do produto pretendido, nelas podem participar usuários, clientes, partes interessadas, fornecedores e todos os integrantes do projeto, diretos ou indiretos. Dessa maneira é garantido que todos os requisitos necessários serão abordados. Vale frisar que essas reuniões não devem se limitar apenas ao ínicio do projeto, ou seja, ao longo do desenvolvimento o backlog pode ir se moldando, trazendo novas histórias ou descartando histórias não mais necessárias aos interessados.</p>
+<h2>Product Backlog: Definido Prioridades</h2>
+<p>Uma vez que a principal função do Product Owner é coletar e definir a prioridade das User Stories. Um ponto crucial para um bom desenvolvimento é a priorização correta e bem aplicada, dessa forma as entregas serão sempre bem vindas e geraram real impacto no projeto, uma priorização mal realizada cria impeditivos em sprints, entregas falhas ou com baixa efetividade, o que gera transtornos para o projeto. Há diversas formas de realziar essa priorização, sendo as principais:
+<h3>Enumeração/Ordenação</h3>
+<p>Nessa estratétigia atribuímos números a cada uma das histórias, sendo o mais usual o valo menor ter maior prioridade que o maior. Nesse caso temos uma ordenação em fila, o que permite vermos melhor o andamento por etapas e, consequentemente, priorizarmos requisitos que possuem dependencias em ordem sequencial para que cada passo anteceda o próximo gerando um fluxo constante e produtivo.</p>
+<h3>MoSCoW (agrupamento)</h3>
+<p>Nessa estratégia temos grupos de importância, definidos pelo acrônimo MoSCoW, dessa forma atribuímos uma categoria de importância para cada história e, a partir disso, temos grupos de histórias ordenados por importância. É importante frisar que essa estratégia, embora bem difundida e documentada, exige muita maturidade e intimidade com o processo de desenvolvimento por parte do Product owner, pois demanda conhecimento das dependencias entre histórias e visão das entregas pois quanto maior cada grupo, mais complexa será a definição das sprints e quebras nas entregas de valor.
+<table>
+    <tr>
+        <td style="font-size:30px; color: purple; font-weight: bold;">M</td>
+        <td>Must Have (Deve Ter)</td>
+        <td>Diz-se dos itens essenciais para o projeto, aqueles que precisam existir no produto final.</td>
+    </tr>
+    <tr>
+        <td style="font-size:30px; color: purple; font-weight: regular;">o</td>
+        <td>------------</td>
+        <td>------------</td>
+    </tr>
+    <tr>
+        <td style="font-size:30px; color: purple; font-weight: bold;">S</td>
+        <td>Should Have (Deveria Ter)</td>
+        <td>São itens que também são importantes mas que não são essenciais.</td>
+    </tr>
+    <tr>
+        <td style="font-size:30px; color: purple; font-weight: bold;">C</td>
+        <td>Could Have (Poderia Ter)</td>
+        <td>São itens interessantes para o produto, mas que não chegam a ser importantes.</td>
+    </tr>
+    <tr>
+        <td style="font-size:30px; color: purple; font-weight: regular;">o</td>
+        <td>------------</td>
+        <td>------------</td>
+    </tr>
+    <tr>
+        <td style="font-size:30px; color: purple; font-weight: bold;">W</td>
+        <td>Won't Have for Now (Não terá por enquanto)</td>
+        <td>São itens desprezados durante as etapas iniciais do projeto mas que, se houver alguma possibildiade, poderão ser incluídos.</td>
+    </tr>
+</table>
+</p>
+</p>
+<h2>Planejamento de Release ou Release Plan</h2>
+<p>Por release é endendida, de forma objetiva, uma nova versão funcional do produto, ou seja, uma entrega contendo um conjunto de histórias que representam uma mudança significativa do produto parcial que o cliente já possui. Dessa forma, o planejamento de releases visa entender quais histórias compõem uma versão nova e criar, dessa maneira, um mapa de entregas.<br />Ao mesmo tempo é feito o planejamento de duração das sprints, assim são estabelecidos os prazos e datas para cada uma das entregas. Dessa forma é importante entender o esforço, custo e tempo empregado para cada história, assim temos um Release Plan eficaz e bem embasado.<br /><br />Vale ressaltar que cada sprint não precisa, necessáriamente, representar um novo release, tendo a possibilidade de criar sprints intermediárias às releases para o desenvolvimento de histórias co-dependentes para um release ser definido. Além disso é preciso ter atenção para ser mantida a flexibilidade no Release Plan a fim de contornar mudanças no desenrolar do projeto, acréscimos de novas histórias e mudança de prioridades pois, como a característica da metologia é ser flexível, tais eventos precisam ser previstos de antemão.<br /><br />Outro fator importante é que, cada release precisa representar uma nova versão do produto ou conter um conjunto significativo de itens para que seja caracterizada como tal.<br /><br />Outro ponto importante para frisar é que Release Plan não é um Road-Map, para isso teremos um <a href="./road-map.md" style="font-size:px; font-weight: bold; color: purple; text-decoration: none;">texto</a> melhor explicado à respeito.</p>
+<h1>Objetivo SMART</h1>
+<p>A palavra SMART, por si só, representa bem o que pretendemos pois ela significa inteligente, mas além disso, um objetivo SMART representa uma metodologia para definição de objetivos com maior eficácia e impacto.
+<table>
+    <tr>
+        <td style="font-size:30px; color: purple; font-weight: bold;">S</td>
+        <td>Specific (Específico)</td>
+        <td>Procurar sempre especificar o objetivo, de modo a facilitar a compreenção dele.</td>
+    </tr>
+    <tr>
+        <td style="font-size:30px; color: purple; font-weight: bold;">M</td>
+        <td>Measurable (Mensurável)</td>
+        <td>Precisamos de um valor ou meta, desse modo podemos acompanhar a eficiência no atendimento ou mesmo seu impacto.</td>
+    </tr>
+    <tr>
+        <td style="font-size:30px; color: purple; font-weight: bold;">A</td>
+        <td>Attainable (Atingível)</td>
+        <td>Sempre procurar por metas alcançáveis, de modo a podermos atender ás espectativas.</td>
+    </tr>
+    <tr>
+        <td style="font-size:30px; color: purple; font-weight: bold;">R</td>
+        <td>Relevant (Relevante)</td>
+        <td>Usarmos ubjetivos que sejam relevantes ao projeto e à equipe, assim aumentamos o engajamento dos envolvidos com a execução.</td>
+    </tr>
+    <tr>
+        <td style="font-size:30px; color: purple; font-weight: bold;">T</td>
+        <td>Timely (Restrito no Tempo)</td>
+        <td>Entender o prazo no qual o objetivo pretendido deseja ser acançado, dessa maneira podemos ter um prazo bem definido.</td>
+    </tr>
+</table>
+</p>
+<h2>Reunião de Kick-off</h2>
+<p>A reunião de Kick-off é um rito muito importante para, sobretudo, gerar engajamento do time com o projeto. Uma vez que nela apresentamso os objetivos, justificativas e metas temos um empoderamento da equipe quanto o projeto proposto além de criarmos um senso de pertencimento nessas pessoas. Ela também é muito importante para podermos tornar públicas informações gerais a respeito do projeto, integrantes, participantes e termos um espaço aberto para que todos tenham ummomento de troca e compartilahmento de idéias e conselhos a respeito dos próximos passos.<br />Nela trazemos a equipe para perto de nós e conseguimos passar a imagem que queremos e, através dela, também temos a oportunidade de apresentarmos nossa liderança e trazermos esse senso de maneira orgânica, sem imposição nem cobrança nesse sentido.</p>
