@@ -303,7 +303,7 @@ A partir disso podemos elencar as histórias de usuário como simples ou complex
     <tr>
         <td style="font-size:30px; color: purple; font-weight: bold;">R</td>
         <td>Relevant (Relevante)</td>
-        <td>Usarmos ubjetivos que sejam relevantes ao projeto e à equipe, assim aumentamos o engajamento dos envolvidos com a execução.</td>
+        <td>Usarmos objetivos que sejam relevantes ao projeto e à equipe, assim aumentamos o engajamento dos envolvidos com a execução.</td>
     </tr>
     <tr>
         <td style="font-size:30px; color: purple; font-weight: bold;">T</td>
@@ -314,3 +314,22 @@ A partir disso podemos elencar as histórias de usuário como simples ou complex
 </p>
 <h2>Reunião de Kick-off</h2>
 <p>A reunião de Kick-off é um rito muito importante para, sobretudo, gerar engajamento do time com o projeto. Uma vez que nela apresentamso os objetivos, justificativas e metas temos um empoderamento da equipe quanto o projeto proposto além de criarmos um senso de pertencimento nessas pessoas. Ela também é muito importante para podermos tornar públicas informações gerais a respeito do projeto, integrantes, participantes e termos um espaço aberto para que todos tenham ummomento de troca e compartilahmento de idéias e conselhos a respeito dos próximos passos.<br />Nela trazemos a equipe para perto de nós e conseguimos passar a imagem que queremos e, através dela, também temos a oportunidade de apresentarmos nossa liderança e trazermos esse senso de maneira orgânica, sem imposição nem cobrança nesse sentido.</p>
+<h2>Sprint Planning - Definindo a Sprint</h2>
+<p>Durante o processo de planejamento, uma etapa muito importante á e Sprint Planning, nela o time SCRUM se reune com o dono do produto e as User Histories coletadas são avaliadas e selecionadas para o desenvolvimento no decorrer da SPRINT, essa estimativa é feita pelo time SCRUM, com base nos conhecimentos da equipe. <br />É muito importante que tanto o Product Owner quanto o Scrum Master observem e respeitem o jlgamento do time, desse modo é garantido que todas as entregas serão atendidas uma vez que cabe ao time se auto gerenciar. <br /><br />
+<h3>Poker Planning</h3>
+<p>Pode ocorrer, caso seja de interesse dos participantes, realizar um "Poker" onde os participantes irão anotar em um papel e, após um determinado tempo, apresentar o os resultados, caso os tempos converjam para o mesmo valor, o tempo será definido, caso haja muita variação, o time pode se reunir e discutir um valor aconfortável para todos.</p>
+<h2>Criando e Estimando Tarefas</h2>
+<p>Uma vez definido o Product Backlog e o Sprint Backlog é necessário avaliar os itens propostos pois, geralmente são notados e linguagem comum, de alto nível. Nesse caso a equipe pode, e deve, desmembrar os itens em subtarefas relacionadas ao item correspondente onde são apontados as necessidades técnicas, detalhes da tecnologia que será utilizada e demais necessidades para construção do que foi solicitado no Item. É importante ressaltar que, uma vez segmentado o item teremos uma lista de necessidades que deverão ser atendidas e que, nesse sentido, apenas quando todas estiverem prontas o resultado poderá ser liberado como um incremento.</p>
+<h2>Fase Implementar</h2>
+<p>Conforme já abordado, o SCRUM é caracterizado pela transparência nas ações. Dessa maneira os quadros de tarefas (conforme sinalizado à pouco) são essenciais para um bom desenvolvimento e maior controle das atividades. Dessa maneira, embora cada integrante esteja tratando de sua atividade individual, o time poderá acompanhar e, inclusive, ajudar os colegas durante o decorrer da sprint. Aliado à isso, uma vez bem utilizado, ao final do ciclo poderá ser observar o status de completude das tarefas selecionadas e a conclusão da sprint. <br /><br /><br />Geralmente, durante a sprint, é utilizado o quadro Kanban como método de acompanhamento da evolução. Esse quadro permite que as atividades naveguem demaneira simples e direta entre as etapas onde estão, dessa maneira tenmos cenários onde as tarefas criadas são movimentadas para em execução, em seguita testes ou validação e, por fim, tarefas concluídas (logicamente caso a sua equipe possua um fluxo mais comolexo o mesmo pode ser implementado, porém é importante se ater que, quanto mais simplificado melhor é o acompanhanemnto).<p>
+<h2>Daily Scrum - A Reunião Diária</h2>
+<p>Um rito muito importante para a saúde do projeto são as reuniões diárias, chamadas de Daily Scrum. Nelas o time Scrum, acompnhado do Scrum amster, apresentam informações importantes acerca do desenvolvimento do projeto, impedimentos e tarefas realizadas e a serem executadas. Por padrão, essa reunião ossui um tempo prefixado de 15 min, onde cada integrante precisa responder à três perguntas:
+    <ul>
+        <li>O que eu fiz ontem?</li>
+        <li>O que farei hoje?</li>
+        <li>Há algum impedimento na tarefa?</li>
+    </ul>
+A partir dessas questões o Scrum Master pode ter uma visão geral da evolução e tomar conhecimento da evolução e dos impedimentos que a equipe possa estar enfrentando. Uma vez que o papel do Scrum Master é ser um facilitador do projeto, não cabe a ele comandar ou direcionar a reunião, embora possa atuar como um orientador, puxando o foco e facilitando a evolução do rito, porém é de competência dele garantir que a reunião ocorra e que somente o time irá participar. Outros envolvidos com o projeto podem participar das dailys, porém apenas como ouvintes, somente o time tem permissão para interagir e discutir tópicos durante a reunião.
+<h3 style="color: purple">Registro de Impedimentos</h3>
+Esse é também o momento em que o Scrum Master atualiza seu registro de impedimento, onde ele anota e elenca os impedimentos encontrados de modo que possa, assim que encerrada a reunião, seguir com a liberação desses entraves e facilitação para os esforços da equipe.
+</p>
