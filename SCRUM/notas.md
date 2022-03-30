@@ -333,3 +333,28 @@ A partir dessas questões o Scrum Master pode ter uma visão geral da evolução
 <h3 style="color: purple">Registro de Impedimentos</h3>
 Esse é também o momento em que o Scrum Master atualiza seu registro de impedimento, onde ele anota e elenca os impedimentos encontrados de modo que possa, assim que encerrada a reunião, seguir com a liberação desses entraves e facilitação para os esforços da equipe.
 </p>
+<h2>Ferramentas da Daily</h2>
+<p>A reunião diária ainda pode contar com ferramentas associadas além do Registro de Impedimentos, nesse caso me refiro ao gráfico de Burndown e às tradições como:
+    <ul>
+        <li>Atrasos → Os atrasos não são tolerados e não são aguardados. Uma vez que um integrante se atrase a reunião deve começar sem ele. Ocasionalmente podem haver brincadeiras ou "multas" para quem se atrasa, sempre em tom de brincadeira.</li>
+        <li>Painel e Tarefas atualizadas → É desejado que os status de todas as tarefas esteja atualizado, caso fique algo de fora é importante sinalizar ainda durante a daily para a atualização.</li>
+        <li>Pós Daily → Após a Daily o time pode, e é recomendado, seguir debatendo alguns pontos críticos e buscando interagir na facilitação das atividades internas, seja com ajuda ou sugestões.</li>
+    </ul>
+<h3>Gráfico de Burndown</h3> <p>Apresenta os itens tratados na Sprint em função da evolução destes. Ele é cunstituído de duas linhas, uma que apresenta a evolução esperada e outra que mostra o progresso real. É responsabilidade do SCRUM master criar e manter o gráfico atualizado com os status das atividades.<br />Esse gráfico tem a finalidade de, entre outros, monitorar e adr uma melhor visão de como está a saúde da sprint e direcioanr esforços caso haja atrasos ou levantar riscos caso o avanço esteja muito acelerado (podem haver erros em decorrência da entrega antecipada). Além disso o gráfico também permite ao time obter uma visão geral do que está ocorrendo e fomenmtaro o senso de colaboração. <br />Vale também ressaltar que o gráfico pode, e deve, ficar público, dessa maneira os integrantes podem consultar e analisar as informações contidas ali á qualquer momento.</p>
+</p>
+<h2>Imprevistos na Sprint</h2>
+<p>Como abordado em outras ocasiões, o Product Backlog é um organismo vivo, que passa por diversas alterações durante o processo de desenvolvimento do projeto. Nesse sentido temos que sempre que há uma alteração na Sprint, o recomendado é que essas histórias voltem para o backlod a fim de serem repriorizadas. Durante uma sprint é extremamente mal visto e contra-producente, alterar ou remover itens sendo que, os principais motivos para que isso ocorra são:
+    <ul>
+        <li>O Product Owner interpretou de maneira equivocada a história em questão.</li>
+        <li>O cliente, a partir das entregas realizadas, identificou que é necessário alterar ou reformular algum dos requisitos apresentados.</li>
+        <li>Um recurso foi descontinuado ou precisa ser revisado.</li>
+        <li>Um recurso foi mal mensurado e não poderá ser entregue no decorrer da sprint.</li>
+        <li>Houveram necessidades não especificadas para que o recurso fosse criado/desenvolvido.</li>
+    </ul>
+Geralmente, quando uma história precisa ser alterada ela é removida da sprint e retorna ao backlog, o mesmo ocorre com novas necessidades apontadas pelo cliente em virtude das entregas. Dessa forma é usual que isso seja incluso na sprint seguinte, porém não é uma regra e cabe ao Product owner avaliar tal situação.
+<br />
+Como falado, não é recomendado e precisa ser evitado ao máximo alterar ou remover histórias no decorrer da sprint pois isso gera além de desorganizão, perda de tempo e retrabalho do time em virtude de uma retomada ou reconfecção do recurso alterado. Também gera impedimentos quanto à recursos como contratações não esperadas, recursos escassos e mais verba para o projeto.
+<br />
+Outro ponto importante caso hajam alterações na sprint é a necessidade de ser revisto o Release Map onde o mesmo deve refletir as entregas e, caso haja a remoção de algum item, ajustar o rpazo de entrega conforme repriorização.
+</p>
+<h2></h2>
