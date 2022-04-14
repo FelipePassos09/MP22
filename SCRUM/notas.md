@@ -357,4 +357,29 @@ Como falado, não é recomendado e precisa ser evitado ao máximo alterar ou rem
 <br />
 Outro ponto importante caso hajam alterações na sprint é a necessidade de ser revisto o Release Map onde o mesmo deve refletir as entregas e, caso haja a remoção de algum item, ajustar o rpazo de entrega conforme repriorização.
 </p>
-<h2></h2>
+<h2>Revisão e Retrospectiva</h2>
+<h3>Entrega de Valor e Aprovação</h3>
+<p>A Sprint Review tem por objetivo analisar o conjunto das entregas desenvolvidas durante o ciclo. A reunião é de interesse do Product Owner, porém as outras partes interessadas podem, e devem, participar ativamente do processo pois serão elas quem avaliaram os resultados, validando as entregas e utilizando dos componentes desenvolvidos. É importante observar que este rito deve ser realizado de maneira mais informal e franca, onde as partes interessadas analisam juntas as entregas e precisam ter liberdade para comentar e discorrer sobre os pontos positivos e negativos identificados. Outro detalhe é que essa reunião vsia apresentar, efetivamente, o que foi desenvolvido, dessa maneira este não é um momento para testes ou outras validações de baixo nível (a menos que isso seja parte da entrega) essas atividades devem ser realizadas previamente e precisam fazer parte do escopo de desenvolvimento como etapa necessária para ser feita a entrega. Para essas validações e saber se estão prontas para entrega,devem ser observados os critérios de aceitação.<br />A Sprint Review é, também, um evento time-boxed, nesse caso tendo, em média, 2hrs para cada semana de sprint, ou seja, para uma sprint de duas semanas são aceitas, até, 4hrs de duração da revisão.</p>
+<p>Além desses pontos, outro fator importante para a realização da Sprint Review é a gestão e atenção aos itens que estão sendesenvolvidos, de modo que sejam concluídos dentro do prazo, evitando itens "quase" prontos ao final do ciclo. Isso também influencia no engajamento e envolvimento do time em virtude do sentimento de satisfação individual e coletiva com as entregas e elogios, agregando cada vez mais qualidade e agilidade nas entregas, transformando o time, cada vez mais, em um grupo coeso e unido em prol de entregas com cada vez mais qualidade.</p>
+<h4>Itens Reprovados</h4>
+<p>Sempre que fazemos uma Review há o risco de itens não serem aprovados, o que acarreta em seu retorno para o backlog do produto. Esse ponto é importante ser frisado pois os itens jamais podem retornar à sprint, o que geralmente ocorre é que eles sejam incluídos como prioridade na sprint seguinte, porém isso também não é algo garantido pois cabe ao Product Owner avaliar a priorização dos desenvolvimentos.</p>
+<h3>Retrospectiva da Sprint</h3>
+<p>A reunião de retrospectiva ocorre sempre antes de cada sprint planning, sendo uma reunião time-boxed, com tempo estimado de 1:30 para uma sprint de 2 semanas. Essa etapa tem por base avaliar necessidades de adaptação do processo de desenvolvimento, tendo como objetivo principal avaliar o ciclo do ponto de vista da própria equipe de, daí, tirar um conjunto de lições aprendidas além de definir algumas ações bem delimitadas para que, na próxima sprint, as dificuldades e transtornos tidos no período não se repitam ou, pelo menos, impactem menos na perfomance e entrega do time.<br />Essa reunião é de interesse exclusivo da equipe SCRUM e, eventualmente, o Scrum Master. O Product Owner ou outros interessados podem participar, porém somente como ouvintes.</p>
+<h4>Modelo de Lição Aprendida</h4>
+<p>Observando os principios do SCRUM devemos nos ater á alguns pontos e semrpe tirar valor de situações problema geradas ou enfrentadas pelo time, dessa maneira podemos utilizar de métodos para que sejam registrados esses incidentes e possam ser lidos e tratados de maneira efetiva com lições e aprendizados de valor. Um modelo de registro para uma lição aprendida segue abaixo:
+    <ul>
+        <li>Descrição do Cenário:
+            <ul><li>Durante o andamento da sprint, um dos interessados realizou contato diretamente com um dos desenvolvedores a fim de solicitar alterações urgentes no sistema em desenvolvimento.</li></ul>
+        </li>
+        <li>Ação Executada:
+        <ul><li>O desenvolvedor se sentiu pressionado e realizou a mudança imediatamente.</li></ul>
+        </li>
+        <li>Resultado Obtido:
+            <ul><li>Devido o programador ter parado de trabalhar por um dia inteiro nas tarefas da Sprint para implementar a solicitação do cliente, o resultado da Sprint ficou comprometido e a mesma foi reprovada na reunião de revisão da Sprint.</li></ul>
+        </li>
+        <li>Lição Aprendida:
+            <ul><li>Toda e qualquer solicitação de demanda que venha a ser efita deve ser compartilhada com o Scrum Master para que seja dado o devido encaminhamento que, no caso, será conversar com o Dono do Produto e avaliar a demanda solicitada para, se for o caso, se acrescentada ao Backlog do Produto.</li></ul>
+        </li>
+    </ul>
+No caso das lições aprendidas é importante ressaltar que não há nomes ou apontamentos de responsáveis, não cabe à essa atividade apontar responsáveis e sim gerar conhecimentos relevantes para todo o time.
+</p>
